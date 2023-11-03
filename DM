@@ -1,0 +1,13 @@
+Data Management: 
+Data Integrity
+Data Noise
+Missing Values
+Duplicate Values
+Data Integration
+Object Matching 
+Data Reduction
+Decision tree
+Data Transformation
+Normalization
+Data Cleaning 
+Data pre processing
